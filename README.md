@@ -21,7 +21,7 @@ We realized that recruiters spend a lot of valuable time to vet talents and asce
 
 2. Shola Onibokun (https://github.com/Solaonibokun1,https://www.linkedin.com/in/sola-onibokun-535072160/)
 
-##Top Use Cases
+## Top Use Cases
 1. A Recruiter can search and find the top ranking java developers in a location e.g Abuja with 2 years of working experience. And they get instant results of top vetted talents that match those criteria in seconds.
 2. Talent can increase their income by building skills. This has an immediate effect with talent ocean as your ranking increases and you get more offers from recruiters.
 3. Recruiters do not need to test or vet talents again, Talent ocean has done that already. This cuts down recruitment time by over 1000%.
